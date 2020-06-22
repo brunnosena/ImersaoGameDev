@@ -4,14 +4,14 @@
 
 
 ## 🔖 Descrição 
-🕹️ Criação de um jogo utilizando Javascript na semana da #ImersãoGameDev da Alura.
+🕹️ Jogo utilizando Javascript na semana da #ImersãoGameDev da Alura.
 
 ## 💻 Tecnologias
 
 * HTML5/Canvas
 * JavaScript
 
-## 💻 Bibliotecas
+## 📚 Bibliotecas
 
 * [p5.js](https://p5js.org/)
 
@@ -30,7 +30,6 @@ index.html
 ## 📝 Licença
 O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
 
----
 ---
 
 <h3 align="center">
