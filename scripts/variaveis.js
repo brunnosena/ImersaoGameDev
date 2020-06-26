@@ -1,3 +1,5 @@
+let fita;
+
 let imagemTelaInicial;
 let fontTelaInicial;
 let imagemCenario;
@@ -6,10 +8,13 @@ let imagemPersonagem;
 let imagemInimigo;
 let imagemInimigoTroll;
 let imagemInimigoVoador;
+let imagemVida;
 
 let botaoGerenciador;
 let jogo;
-let cenaAtual = 'telaInicial';
+let vida;
+// let cenaAtual = 'telaInicial';
+let cenaAtual = 'jogo';
 let telaInicial;
 let cenas;
 
